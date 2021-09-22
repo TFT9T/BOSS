@@ -1,6 +1,6 @@
-# <p align="center" style="color:#cb3349" > [<< Source Boss >> (Final Version)](https://telegram.me/TH3BS)
+# <p align="center" style="color:#cb3349" > [<< Source peace >> (Final Version)](https://telegram.me/TFT4T)
 
-<p align="center" style="color: #14635c;" > سورس الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
+<p align="center" style="color: #14635c;" > سورس السلام الاقوى والاحدث لحمايه المجموعات في التلكرام
 
 ***
 
@@ -21,7 +21,7 @@ git clone https://github.com/TFT9T/BOSS.git ;cd BOSS;chmod +x run;./run
 
 Example
 
-./@MaaBot/run
+./@p1dbot/run
 ```
 # <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/TFT4T)
 ```sh
