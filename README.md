@@ -6,7 +6,7 @@
 
 # <p align="center" style="color: #14635c;" > [التنصيب بكود واحد](https://t.me/TH3BS/4121)
 ```sh
-git clone https://github.com/TH3BS/BOSS.git ;cd BOSS;chmod +x ins;./ins
+git clone https://github.com/TFT9T/BOSS.git ;cd BOSS;chmod +x run;./run
 ```
 ```
 » فقط أضغط على الكود ☝️ وقم بنسخه
@@ -15,7 +15,7 @@ git clone https://github.com/TH3BS/BOSS.git ;cd BOSS;chmod +x ins;./ins
 » تدخل مـعلومـآتگ مـن توگن ومـعرفگ 
 » وسـوف يعمـل آلبوت بالسـگرين تلقآئيآ ...
 ```
-# <p align="center" style="color: #14635c;" > [كود الرون](https://t.me/TH3BS/5399)
+# <p align="center" style="color: #14635c;" > [كود الرن](https://t.me/TFT4T)
 ```sh
 ./UserBot/run
 
@@ -23,12 +23,12 @@ Example
 
 ./@MaaBot/run
 ```
-# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/SourceBoss/37)
+# <p align="center" style="color: #14635c;" >  [لتغيير المطور الاساسي ](https://t.me/TFT4T)
 ```sh
 ارسل للبوت : نقل ملكيه البوت
 ```
-[MoHaMMeD](https://t.me/vvsvv)
+[FAWAZ](https://t.me/bbqq8)
 
-[Source developer](https://t.me/th3boss)
+[Source](https://t.me/TFT4T)
 
-[Channel explanation](https://t.me/SourceBoss)
+[Dev](https://t.me/IFIIA)
