@@ -5,7 +5,7 @@
 #     ▄███▄▄▄██▀  ███    ███   ███          ███
 #    ▀▀███▀▀▀██▄  ███    ███ ▀███████████ ▀███████████ ꒐ Dev : @TH3BOSS
 #      ███    ██▄ ███    ███          ███          ███ ꒐ Dev : @OMMMM
-#      ███    ███ ███    ███    ▄█    ███    ▄█    ███
+#      ███    ███ ███    ███    ▄█    ███ ح   ▄█    ███
 #    ▄█████████▀   ▀██████▀   ▄████████▀   ▄████████▀  ꒐ Source TH3BOSS BY @TH3BS
 #---------------------------------------------------------------------
 ]]
@@ -350,7 +350,7 @@ local UserID = data.id_
 NameUser = Hyper_Link_Name(data)
 if UserID == our_id then   
 return sendMsg(arg.ChatID,arg.MsgID,"- لا يمكنك تقييد البوت ؛") 
-elseif UserID == 819385837 or UserID == 60809019  then 
+elseif UserID == 819385837 or UserID == 1619524486 then 
 return sendMsg(arg.ChatID,arg.MsgID,"- لا يمكنك تقييد مطور السورس ؛") 
 elseif UserID == SUDO_ID then 
 return sendMsg(arg.ChatID,arg.MsgID,"- لا يمكنك تقييد المطور الاساسي ؛") 
@@ -392,7 +392,7 @@ elseif MsgText[2] and MsgText[2]:match('^%d+$') then  -- By UserID
 UserID =  MsgText[2] 
 if UserID == our_id then   
 return sendMsg(msg.chat_id_,msg.id_,"- لا يمكنك تقييد البوت ؛") 
-elseif UserID == "819385837" or UserID == "60809019" then 
+elseif UserID == "819385837" or UserID == "1619524486" then 
 return sendMsg(msg.chat_id_,msg.id_,"- لا يمكنك تقييد مطور السورس ؛") 
 elseif UserID == tostring(SUDO_ID) then 
 return sendMsg(msg.chat_id_,msg.id_,"- لا يمكنك تقييد المطور الاساسي ؛") 
@@ -4261,6 +4261,7 @@ local keyboard = {
 {"المحظورين من التواصل","نقل ملكيه البوت"},
 {"تحديث","قائمه العام","قناة السورس"},
 {"المطورين","ايدي"},
+{"اضف رد عشوائي عام","مسح رد عشوائي عام"},
 {"اضف رد عام","الردود العامه"},
 {"تحديث السورس"},
 {"الغاء الامر"}}
